@@ -39,7 +39,7 @@ Key findings:
 | `FinTech_Assignment_FINAL.ipynb` | End-to-end notebook: cleaning, feature engineering, modelling, evaluation |
 | `README.md` | This file |
 
-The dataset (`dataset02.csv`) was provided by the course and is **not** included in this repository.
+The dataset (`dataset02.csv`) was provided by the course (source not stated) and is **not** included in this repository. 
 
 ## How to run
 
