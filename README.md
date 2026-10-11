@@ -1,6 +1,11 @@
-# Fraud Detection Model
+## Fraud Detection Model
 
-A machine learning pipeline that flags fraudulent card, mobile, ATM and wire transactions. Built as a group project for *DA4641 Introduction to FinTech* (Case Study 01), Department of Decision Science, University of Moratuwa.
+A machine learning pipeline that flags fraudulent card, mobile, ATM, and wire transactions.
+
+Built as a group project for DA4641 – Introduction to FinTech (Case Study 01), Department of Decision Science, University of Moratuwa.
+
+### Group Members
+#### Gihini Waidyalankara | Yuneesha Ediriweera | Sanali Wimalarathne
 
 ## What it does
 
